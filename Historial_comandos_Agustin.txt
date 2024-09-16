@@ -1,0 +1,263 @@
+ls
+whoami
+pwd
+man
+man man
+ls -l
+ls -la
+man man
+echo "hola"
+echo $hHOME
+echo $HOME
+comands
+help
+cd repogit
+clear
+ls -la
+cd ..
+ls
+cat README
+git clone https://github.com/AgustinFeliciotti/Feliciotti_vagrant.git
+ls
+cd carpeta_compartida/
+cd ..
+cd Feliciotti_vagrant/
+ls
+history
+history > historial.txt
+ls
+cat
+cat historial.txt
+git status
+git add .
+git status
+git commit -m "Mi primer commit"
+git config --global user.email "feliciottiagustin04@gmail.com"
+git config --global user.name "Agustín Feliciotti"
+git commit -m "Mi primer commit"
+git push
+git status
+git push
+git push 
+git push
+exit
+vagrant status
+clear
+ls
+ls -la
+ssh-keygen -t ed25519
+cd .ssh
+ls
+cat id_ed25519.pub
+ls
+cd ..
+cd repogit
+ls
+clear
+ls
+git clone git@github.com:AgustinFeliciotti/Feliciotti_vagrant.git
+ls
+cd Feliciotti_vagrant
+ls
+history
+history > historial.txt
+ls
+git status
+git add .
+git status
+git commit -m "Mi primer commit"
+git push
+git status
+cd ..
+cd..
+cd ..
+cd repogit
+ls
+cd Feliciotti_vagrant/
+cb ...
+cb ..
+a
+cd ...
+cd ..
+echo "hola"
+bc <<<1+2
+cat << Fin Arcihvo2.txt
+linea 1
+linea 2
+linea 3
+fin
+Fin
+
+cat
+cat Arcihvo2.txt
+ls
+cat > archiv1.txt 
+ls
+cat << fin > texto2.txt
+Linea 1
+linea 2
+linea 3
+fin
+
+cat
+cat texto2.txt 
+cat << fin > texto3.txt
+linea 4
+linea 5
+linea 6
+fin
+
+cat texto2.txt texto3.txt
+cat texto2.txt texto3.txt | head -n2 
+cat texto2.txt texto3.txt | head -n23
+cat texto2.txt texto3.txt | head -n3
+cat texto2.txt texto3.txt | head -n1
+cat texto2.txt texto3.txt | head -n2 | grep -n 1
+cat texto2.txt texto3.txt | head -n2 | grep -n 2
+cat texto2.txt texto3.txt | head -n2 | grep -n 1 2
+cat texto2.txt texto3.txt | head -n2 | grep -n 12
+cat texto2.txt texto3.txt | head -n2 | grep -n 6
+cat texto2.txt texto3.txt | head -n2 | grep -n 3
+cat texto2.txt texto3.txt | head -n2 | grep -n 1
+cat texto2.txt texto3.txt | head -n2 | grep -n 1,2
+
+cat texto2.txt texto3.txt | head -n2 | grep -n linea
+cat texto2.txt texto3.txt | head -n6 | grep -n linea
+cat texto2.txt texto3.txt | head -n6 | grep -n cpuinfo
+grep -i proce | proc | grep -n cpuinfo
+grep -i proce /proc/cpuinfo
+grep -i proce /proc/cpuinfo | grep -i proce
+grep -i proce /proc/cpuinfo | grep -i proce | haed -n1
+cat /proc/cpuinfo | grep -i proce | haed -n1
+cat /proc/cpuinfo | grep -i proce | head -n1
+history
+cat /proc/cpuinfo | grep -i proce | head -n1
+cat /etc/passwd
+cat /etc/passwd | sort
+clear
+cat /etc/passwd | sort
+cat /etc/shadow
+clear
+cat /etc/shadow 
+sudo cat /etc/shadow
+sudo cat /etc/shadow | sort
+
+sudo cat /etc/shadow | sort
+history
+exit
+Agustin@DESKTOP-PB622MB MINGW64 /c/SO/repogit/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo (master)
+$ ^[[200~
+bash: $'\E[200~': command not found
+Agustin@DESKTOP-PB622MB MINGW64 /c/SO/repogit/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo (master)
+$ ^C
+Agustin@DESKTOP-PB622MB MINGW64 /c/SO/repogit/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo (master)
+$
+clear
+histoy
+history
+grep HOME_URL /etc/os-release
+history
+cat /proc/cpuinfo | grep -i proce | haed -n1
+clear
+ls -la 
+ls
+cd repogit
+cd ..
+ls -la
+cat .ssh
+cat ssh -t ed25519
+ssh-keygen
+.ssh
+cat $HOME/.ssh/*.pub
+cat $HOME/.ssh/*.pup
+ls
+cat id_ed25519.pub
+ssh-keygen
+ca id_ed25519.pub
+cat ssh -t ed25519
+ssh-keygen
+cd repogit
+ls
+cd repogit
+ls
+cd ..
+ls
+cd TP_AySO/
+LS
+ls
+grep home_url /etc/os-release
+grep HOME_URL /etc/os-release
+grep man Home_url /etc/os-release
+grep <parámetro> Home_url /etc/os-release
+grep -i Home_url /etc/os-release
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls
+git add.
+git add .
+git commit -m "add:agregado 1er ejercicio sobre datos_usuarios.txt
+
+
+git commit -m "add:agregado 1er ejercicio sobre datos_usuarios.txt"
+git git status
+git add .
+git commit - "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+ls
+git add datos_suarios.txt
+clear
+git commit - "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git statsu
+git status
+git add .
+ls
+git add . 
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git log
+git status
+git log --oneline
+git branch
+git status
+echo "Prueba de commit" > prueba.txt
+ls
+git add prueba.txt
+git commit -m "Commit de prueba"
+git log --oneline
+git status
+git commit -m "ADD: clear
+clear
+status
+git status
+grep "model name" /proc/cpuinfo | head -n1
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+cat datos_usuarios.txt
+head /proc/cpuinfo | GREP "model name" >>> dato_usuario.txt
+head /proc/cpuinfo | GREP "model name" >> dato_usuario.txt
+head /proc/cpuinfo | GREP "model name" > dato_usuario.txt
+ls
+git add datos_usuarios.txt
+git commit -m "feat: Añadiendo información de CPU"
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head -n10
+status
+git status
+clear
+grep -v "nologin" /etc/passwd
+grep -v "nologin" /etc/passwd | head -n10
+grep -v "nologin" /etc/passwd | head -n10 | sort -t: -k7
+grep -v "nologin" /etc/passwd | head -n10 | sort -t: -k7 > lista_ordenada
+git add lista_ordenada
+git commit -m "ADD: Listado de usuarios ordenada"
+echo "tcpdump" > comando_dump_net
+echo "tcpdump -i [interface]" >> comando_dump_net
+git add comando_dump_net
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+cat <<EOF >> README.md
+Alumno: Agustin Feliciotti
+División: 113
+Turno: mañana
+EOF
+
+git add README.md
+git commit -m "docs: Actualización del README con información personal"
+history -a
