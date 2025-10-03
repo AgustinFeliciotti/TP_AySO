@@ -1,7 +1,4 @@
-cat <<EOF >> README.md
-Alumno: Agustín Feliciotti 
-División: 3 
-Turno: Mañana 
-EOF
+mkdir -p feliciotti_agustin/{materia1,materia2}/{uni1,uni2,uni3}
+
 
 
